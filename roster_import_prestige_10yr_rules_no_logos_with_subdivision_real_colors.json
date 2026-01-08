@@ -717,7 +717,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/acc_conf.png",
       "conferencePrestige": 90,
       "name": "ACC",
       "requiredConferenceGames": 18,
