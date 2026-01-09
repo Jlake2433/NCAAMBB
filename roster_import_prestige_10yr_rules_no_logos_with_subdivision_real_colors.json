@@ -53,7 +53,7 @@
   ],
   "conferences": [
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/america_east_conf.png",
       "conferencePrestige": 62,
       "name": "America East",
       "requiredConferenceGames": 18,
@@ -180,7 +180,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/american_athletic_conf.png",
       "conferencePrestige": 76,
       "name": "AAC",
       "requiredConferenceGames": 18,
@@ -359,7 +359,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/asun_conf.png",
       "conferencePrestige": 60,
       "name": "ASUN",
       "requiredConferenceGames": 18,
@@ -525,7 +525,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/atlantic_ten_conf.png",
       "conferencePrestige": 75,
       "name": "Atlantic 10",
       "requiredConferenceGames": 18,
@@ -961,7 +961,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/big_twelve_conf.png",
       "conferencePrestige": 90,
       "name": "Big 12",
       "requiredConferenceGames": 18,
@@ -1179,7 +1179,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/bi_east_conf.png",
       "conferencePrestige": 88,
       "name": "Big East",
       "requiredConferenceGames": 18,
@@ -1332,7 +1332,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/big_sky_conf.png",
       "conferencePrestige": 58,
       "name": "Big Sky",
       "requiredConferenceGames": 18,
@@ -1472,7 +1472,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/big_south_conf.webp",
       "conferencePrestige": 56,
       "name": "Big South",
       "requiredConferenceGames": 18,
@@ -1843,7 +1843,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/big_west_conf.png",
       "conferencePrestige": 62,
       "name": "Big West",
       "requiredConferenceGames": 18,
@@ -1996,7 +1996,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/coastal_athletic_conf.jpeg",
       "conferencePrestige": 63,
       "name": "Coastal Athletic Association",
       "requiredConferenceGames": 18,
@@ -2175,7 +2175,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/conf_usa_conf.png",
       "conferencePrestige": 61,
       "name": "Conference USA",
       "requiredConferenceGames": 18,
@@ -2341,7 +2341,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/horizon_league_conf.webp",
       "conferencePrestige": 60,
       "name": "Horizon League",
       "requiredConferenceGames": 18,
@@ -2494,7 +2494,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/ivy_league_conf.png",
       "conferencePrestige": 66,
       "name": "Ivy League",
       "requiredConferenceGames": 18,
@@ -2608,7 +2608,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/metro_atlantic_conf.png",
       "conferencePrestige": 58,
       "name": "Metro Atlantic Athletic Conference",
       "requiredConferenceGames": 18,
@@ -2787,7 +2787,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/mac_conf.png",
       "conferencePrestige": 57,
       "name": "Mid American Conference",
       "requiredConferenceGames": 18,
@@ -2966,7 +2966,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/mid_eastern_conf.png",
       "conferencePrestige": 52,
       "name": "Mid-Eastern Athletic Conference",
       "requiredConferenceGames": 18,
@@ -3080,7 +3080,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/the_valley_conf.png",
       "conferencePrestige": 68,
       "name": "Missouri Valley Conference",
       "requiredConferenceGames": 18,
@@ -3233,7 +3233,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/mountain_west_conf.png",
       "conferencePrestige": 78,
       "name": "Mountain West",
       "requiredConferenceGames": 18,
@@ -3399,7 +3399,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/northeast_conf.webp",
       "conferencePrestige": 52,
       "name": "Northeast Conference",
       "requiredConferenceGames": 18,
@@ -3539,7 +3539,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/ohio_valley_conf.webp",
       "conferencePrestige": 55,
       "name": "Ohio Valley Conference",
       "requiredConferenceGames": 18,
@@ -3692,7 +3692,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/patriot_league_conf.png",
       "conferencePrestige": 58,
       "name": "Patriot League",
       "requiredConferenceGames": 18,
@@ -3832,7 +3832,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/sec_conf.png",
       "conferencePrestige": 90,
       "name": "SEC",
       "requiredConferenceGames": 18,
@@ -4050,7 +4050,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/socon_conf.png",
       "conferencePrestige": 61,
       "name": "Southern Conference",
       "requiredConferenceGames": 18,
@@ -4190,7 +4190,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/southland_conf.png",
       "conferencePrestige": 55,
       "name": "Southland Conference",
       "requiredConferenceGames": 18,
@@ -4356,7 +4356,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/swac.webp",
       "conferencePrestige": 50,
       "name": "Southwestern Athletic Conference",
       "requiredConferenceGames": 18,
@@ -4522,7 +4522,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/summit_league_conf.png",
       "conferencePrestige": 56,
       "name": "Summit League",
       "requiredConferenceGames": 18,
@@ -4649,7 +4649,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/sun_belt_conf.png",
       "conferencePrestige": 59,
       "name": "Sun Belt Conference",
       "requiredConferenceGames": 18,
@@ -4841,7 +4841,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/west_coast_conf.png",
       "conferencePrestige": 60,
       "name": "West Coast",
       "requiredConferenceGames": 18,
@@ -5007,7 +5007,7 @@
       "protectedPairs": []
     },
     {
-      "conferenceLogoURL": "",
+      "conferenceLogoURL": "https://raw.githubusercontent.com/Jlake2433/NCAAMBB/refs/heads/main/assets/conferences/western_athletic_conf.png",
       "conferencePrestige": 57,
       "name": "Western Athletic Conference",
       "requiredConferenceGames": 18,
